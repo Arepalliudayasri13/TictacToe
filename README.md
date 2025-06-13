@@ -47,7 +47,11 @@ README.md
 - First player to align three marks (horizontal, vertical, or diagonal) wins.
 - If all cells are filled and no one wins, it's a draw.
 
+## 📸 Screenshot
 
+Here is the initial screen of the Tic Tac Toe game:
+
+![Tic Tac Toe GUI](screenshot.png)
 
 ## 📚 Concepts Used
 
